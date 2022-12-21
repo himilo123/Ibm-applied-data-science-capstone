@@ -1,8 +1,10 @@
 # IBM Data Science Capstone Project - SpaceX
 
+This  capstone is the 10th and the final chapter of IBM aplied data science certificate
+
 ![success](https://user-images.githubusercontent.com/94101874/208850464-294199ad-5824-49ff-9453-5887fd66cd4a.gif)
 
-this  capstone is the 10th and the final chapter of IBM aplied data science certificate
+
 
 # Background
 
