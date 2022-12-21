@@ -3,7 +3,7 @@
 This  capstone is the 10th and the final chapter of IBM aplied data science certificate
 
 ![success](https://user-images.githubusercontent.com/94101874/208850464-294199ad-5824-49ff-9453-5887fd66cd4a.gif)
-![success](https://user-images.githubusercontent.com/94101874/208850464-294199ad-5824-49ff-9453-5887fd66cd4a.gif)
+![II](https://user-images.githubusercontent.com/94101874/208851947-36447db1-a6b6-4edc-b50e-e5b51495b741.jpg)
 
 
 # Background
